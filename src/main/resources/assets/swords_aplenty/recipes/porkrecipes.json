@@ -1,0 +1,19 @@
+{
+    "result": {
+        "item": "swords_aplenty:pork_sword"
+    },
+    "pattern": [
+        " p ",
+        " p ",
+        " s "
+    ],
+    "type": "forge:ore_shaped",
+    "key": {
+        "p": {
+            "item": "minecraft:porkchop"
+        },
+        "s": {
+            "item": "minecraft:stick"
+        }
+    }
+}
